@@ -33,5 +33,5 @@ gatsby develop
 6. Go to: 
 
 ```sh
-localhost:8000
+http://localhost:8000
 ```
