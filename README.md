@@ -29,3 +29,9 @@ npm install
 ```sh
 gatsby develop
 ```
+
+6. Go to: 
+
+```sh
+localhost:8000
+```
