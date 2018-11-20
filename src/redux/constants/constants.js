@@ -1,0 +1,6 @@
+// Dashboard actions
+export const CREATE_NEW_SERVER = 'CREATE_NEW_SERVER';
+
+// Alert Actions
+export const SEND_SMS_ALERT_MESSAGE = 'SEND_SMS_ALERT_MESSAGE';
+export const SEND_EMAIL_ALERT_MESSAGE = 'SEND_EMAIL_ALERT_MESSAGE';
