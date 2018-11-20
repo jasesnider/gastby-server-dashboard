@@ -12,13 +12,19 @@ npm install --global gatsby-cli
 git clone git@github.com:jasesnider/gastby-server-dashboard.git
 ```
 
-3. Install dependencies 
+3. CD into app 
+
+```sh
+cd gatsby-server-dashboard
+```
+
+4. Install dependencies 
 
 ```sh
 npm install
 ```
 
-4. Run app in develop
+5. Run app in develop
 
 ```sh
 gatsby develop
